@@ -4,7 +4,7 @@ import { FormsModule } from '@angular/forms';
 
 import { AppComponent } from './app.component';
 import { HelloComponent } from './hello.component';
-import { FullStackDevLogs } from './fullstackdevlogs.component';
+//import { FullStackDevLogs } from './fullstackdevlogs.component';
 
 @NgModule({
   imports:      [ BrowserModule, FormsModule ],
